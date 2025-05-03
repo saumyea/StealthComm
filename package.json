@@ -1,0 +1,27 @@
+{
+	"name": "stealthcomm",
+	"version": "1.0.0",
+	"main": "./main",
+	"type": "module",
+	"scripts": {
+		"start": "electron --trace-warnings .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"@journeyapps/sqlcipher": "^5.3.1",
+		"axios": "^1.8.1",
+		"bip39": "^3.1.0",
+		"dotenv": "^16.5.0",
+		"elliptic": "^6.6.1",
+		"ethers": "^6.13.5",
+		"ring-signatures": "^1.0.7",
+		"socks-proxy-agent": "^8.0.5"
+	},
+	"devDependencies": {
+		"electron": "^35.1.5"
+	}
+}

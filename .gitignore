@@ -1,0 +1,4 @@
+data.db
+/benchmarks
+/node_modules
+/main/config/.env

@@ -1,0 +1,8 @@
+SocksPort 9150
+EntryNodes {DE},{FR},{CA},{AU},{GB}
+MiddleNodes {NL},{SE},{FI},{NO},{CH},{AT},{BE}
+ExitNodes {US},{CA},{GB},{FR},{DE}
+StrictNodes 1
+DataDirectory .\tor\data
+GeoIPFile .\tor\geoip
+GeoIPv6File .\tor\geoip6
