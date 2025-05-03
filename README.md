@@ -36,7 +36,6 @@ StealthComm is a decentralized, privacy-first messaging platform designed to eli
 
 ## 🛠️ Installation & Running the App
 
-```bash
 git clone https://github.com/your-username/stealthcomm.git
 cd stealthcomm
 npm install
